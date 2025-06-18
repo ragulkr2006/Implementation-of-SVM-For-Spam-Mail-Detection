@@ -1,4 +1,4 @@
-## Implementation-of-SVM-For-Spam-Mail-Detection
+# Implementation-of-SVM-For-Spam-Mail-Detection
 
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
@@ -91,4 +91,3 @@ accuracy
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
-](https://github.com/ragulkr2006/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/blob/main/README.md)
